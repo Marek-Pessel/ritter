@@ -124,7 +124,6 @@ Rüstung4_boss = Rüstung(Name='Rüstung4_boss', Schutz=12, Art='Rüstung', Prei
 Schild4_boss = Rüstung(Name='Schild4_boss', Schutz=12, Art='Schild', Preis=160,Level=5)
 Waffe4_boss = Waffe(Name='Waff4_boss', Schaden=18,Art='Waffe',Preis=200,Level=5)
 
-# test for git
 #------------
 
 

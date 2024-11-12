@@ -575,7 +575,6 @@ def main():
     #Spieler.Stufe = 4
     #for monster in monsterlisten[Spieler.Stufe]:
     #    monster.flag = True
-    # another test for commiting
 
 
 # Hauptschleife ###########

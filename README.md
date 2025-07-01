@@ -1,6 +1,6 @@
 # Ritter - a text adventure
 
-A small text based game, where you are a knight and save your town from evil creatures.
+A small text based game, where you are a knight and save your town from evil creatures. The game is ready to play but it is not yet finaly balanced. So you might find it easy in late game phases.
 
 ---
 
@@ -8,6 +8,7 @@ A small text based game, where you are a knight and save your town from evil cre
 
 - [About](#about)
 - [Requirements](#requirements)
+- [License](#license)
 - [Autor](#autor)
 
 ---
@@ -36,6 +37,12 @@ in your terminal.
 Not required but nice to have is the playsound library.
 
 - pip install playsound
+
+---
+
+## License
+
+This code is published public. Feel free to modify the game if you want. If you do, I would appriciate to be informed about it. Also constructive feedback is welcome.
 
 ## Author
 

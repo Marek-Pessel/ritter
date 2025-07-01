@@ -44,6 +44,8 @@ Not required but nice to have is the playsound library.
 
 This code is published public. Feel free to modify the game if you want. If you do, I would appriciate to be informed about it. Also constructive feedback is welcome.
 
+---
+
 ## Author
 
 Marek Pessel

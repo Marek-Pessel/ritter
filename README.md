@@ -8,7 +8,6 @@ A small text based game, where you are a knight and save your town from evil cre
 
 - [About](#about)
 - [Requirements](#requirements)
-- [Konfiguration](#konfiguration)
 - [Autor](#autor)
 
 ---
